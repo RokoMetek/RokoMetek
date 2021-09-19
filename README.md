@@ -11,6 +11,9 @@ Love all about Software Development and IT
 
 - ⚡ Fun fact **The universe is full of nothing**
 
+- :computer: Free Time ***Having fun solving problems***
+    - ![CODEWARS](https://www.codewars.com/users/RokoMetek/badges/small)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/rokometek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/rokometek" height="30" width="40" /></a>
