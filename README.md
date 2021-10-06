@@ -3,6 +3,8 @@
 Love all about Software Development and IT
 </h3>
 
+<img align="right" width="300px" height="300px" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+
 - 🌱 I’m currently learning **Vue, React and Machine Learning concepts**
 
 - 💬 Ask me about **Anything**
