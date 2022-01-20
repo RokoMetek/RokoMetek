@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matija Perhoč (IT Nickname: RokoMetek)</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate fullstack developer<br>
 Love all about Software Development and IT
 </h3>
@@ -9,7 +9,7 @@ Love all about Software Development and IT
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **perhocmatija@gmail.com**
+- 📫 How to reach me **rokometek@gmail.com**
 
 - ⚡ Fun fact **The universe is full of nothing**
 
